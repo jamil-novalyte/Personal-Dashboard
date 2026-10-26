@@ -1,1 +1,30 @@
 @import "tailwindcss";
+
+html,
+body {
+  background: #faf9f6;
+  color: #171d27;
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.scroll-tabs {
+  scrollbar-width: none;
+}
+
+.scroll-tabs::-webkit-scrollbar {
+  display: none;
+}
