@@ -1,0 +1,983 @@
+{
+  "generatedAt": "2026-10-26T00:36:54.595879+00:00",
+  "timezone": "America/Los_Angeles",
+  "metrics": {
+    "activeProspects": 400,
+    "readyToCall": 389,
+    "imported": 11,
+    "paidSetups": 0,
+    "interested": 0,
+    "clinicEmailsSentBatch1": 20,
+    "investorRefs": 61,
+    "batch4Scheduled": 14,
+    "cashGoal": 2250,
+    "setupPrice": 750,
+    "upsOrientationDate": "2026-11-03",
+    "ebtLoadDate": "2026-11-08",
+    "firstPayEstimate": "2026-11-13",
+    "raise": "Pre-seed $150K",
+    "stripePaymentLink": "https://buy.stripe.com/3cI00j7KQ40Eepp6zHgYU01",
+    "deckSlides": "https://docs.google.com/presentation/d/1Q1ERhHpiCBP9KXKUZ32i-auZ4KEYMzZHK0ZFpQvTfj0/edit",
+    "sites": {
+      "main": "https://novalyteai.com",
+      "clinic": "https://clinic.novalyteai.com",
+      "investor": "https://investor.novalyteai.com",
+      "gofundme": "https://gofund.me/0d74b16bf"
+    }
+  },
+  "topActions": [
+    {
+      "id": "a1",
+      "title": "UPS orientation Nov 3 \u2014 confirm time/place + DD",
+      "why": "First paycheck ~Nov 13\u201314 starts the car path",
+      "domain": "Job",
+      "ctaLabel": "Open notes",
+      "status": "todo"
+    },
+    {
+      "id": "a2",
+      "title": "Shelter/food bridge through Nov 8 EBT",
+      "why": "Keep cash for transit/phone, not lodging/meals",
+      "domain": "Personal",
+      "ctaLabel": "Call SFHOT 628-652-8000",
+      "status": "todo"
+    },
+    {
+      "id": "a3",
+      "title": "Batch4 investor send Mon Oct 26 5:00 AM PT (14 + deck)",
+      "why": "Already scheduled; review Drafts if you want edits before then",
+      "domain": "Investor",
+      "ctaLabel": "Review Drafts",
+      "status": "todo"
+    }
+  ],
+  "doNotDo": [
+    "Hire Philippines SDRs",
+    "Spend cash on hotel before 3 clinic setups or UPS pay",
+    "Claim HIPAA / Athena / DrChrono in outreach"
+  ],
+  "bridge": [
+    {
+      "title": "Lodging + food bridge",
+      "date": "now \u2192 2026-11-08",
+      "status": "progress",
+      "notes": "EBT Nov 8; SFHOT 628-652-8000; GLIDE 330 Ellis; Dolores 1050 S Van Ness ~5:30pm line"
+    },
+    {
+      "title": "UPS driver helper orientation",
+      "date": "2026-11-03",
+      "status": "pending",
+      "notes": "$21/hr holiday part-time; ask first-pay date"
+    },
+    {
+      "title": "First UPS paycheck (est.)",
+      "date": "2026-11-13",
+      "status": "pending",
+      "notes": "Weekly prior week; set DD in UPSers/Dayforce"
+    },
+    {
+      "title": "Car (buy or short rental)",
+      "date": "after first check",
+      "status": "pending",
+      "notes": "DoorDash/Roadie off-hours; clinic calls from car"
+    },
+    {
+      "title": "3\u00d7 $750 setups \u2192 ~$2250",
+      "date": "near-term",
+      "status": "pending",
+      "notes": "Hotel + headspace; clinics pay own ads"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "UPS",
+      "role": "Driver Helper",
+      "stage": "Hired",
+      "nextAction": "Orientation Nov 3; confirm first pay + direct deposit",
+      "dueDate": "2026-11-03"
+    }
+  ],
+  "clinicPipelineSummary": {
+    "active": 400,
+    "ready_to_call": 389,
+    "imported": 11,
+    "paid": 0,
+    "interested": 0
+  },
+  "clinicsEmailedBatch1": [
+    {
+      "name": "GameDay Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "stephen@gamedaymenshealth.com",
+      "sentAt": "2026-10-19 15:00:12 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "The Mark Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "baihama@themarkmenshealth.com",
+      "sentAt": "2026-10-19 15:05:26 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "New Life Male Medical Center",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@newlifemalemedicalcenter.com",
+      "sentAt": "2026-10-19 15:15:25 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "TMRW Aesthetics for Men",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "contact@tmrwformen.com",
+      "sentAt": "2026-10-19 15:21:59 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Elite Testosterone Clinic",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "elite@etcpnw.com",
+      "sentAt": "2026-10-19 15:28:27 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Zeus Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "zeusmenshealth@gmail.com",
+      "sentAt": "2026-10-19 15:41:25 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Hawaii Natural Medicine",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@hawaiinaturalmedicine.com",
+      "sentAt": "2026-10-19 15:46:12 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Rejuvenate Hormone and Weight Loss Center",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "rejuvenatemyhormones@gmail.com",
+      "sentAt": "2026-10-19 15:53:30 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Prestige Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "admin@prestigemenshealth.com",
+      "sentAt": "2026-10-19 15:59:20 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Imago Men",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@imagomen.com",
+      "sentAt": "2026-10-19 16:05:40 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Western Slope Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "westernsmh1@gmail.com",
+      "sentAt": "2026-10-19 16:15:14 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Chicagoland Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@chicagolandmenshealth.com",
+      "sentAt": "2026-10-19 16:37:00 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Elite Low T Men's Center",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@elitelowt.com",
+      "sentAt": "2026-10-19 16:42:38 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Accelerate Wellness",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@acceleratemywellness.com",
+      "sentAt": "2026-10-19 16:46:54 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Atlanta Men's Clinic",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "contact@atlantamensclinic.com",
+      "sentAt": "2026-10-20 11:24:21 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "South Florida Men's Health",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@southfloridamenshealth.com",
+      "sentAt": "2026-10-20 11:36:40 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "VITAL Men's Health Center",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@vitalmenshealthcenter.com",
+      "sentAt": "2026-10-20 14:50:53 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Jersey Shore TRT",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@jerseyshoretrt.com",
+      "sentAt": "2026-10-20 15:32:14 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Invite Wellness",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "info@invitewellnesshealth.com",
+      "sentAt": "2026-10-20 15:37:31 PDT",
+      "result": "sent"
+    },
+    {
+      "name": "Mystic Valley Sexual Wellness",
+      "city": "",
+      "stage": "Emailed (batch1 verification)",
+      "nextAction": "Follow up / call if no claim",
+      "email": "admin@mysticvalleysexualwellness.com",
+      "sentAt": "2026-10-20 15:41:49 PDT",
+      "result": "sent"
+    }
+  ],
+  "clinicsDialQueueBayArea": [
+    {
+      "name": "Prime Male Medical",
+      "city": "San Francisco",
+      "state": "CA",
+      "phone": "(415) 761-4037",
+      "email": null,
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Gameday Men's Health Downtown San Francisco",
+      "city": "San Francisco",
+      "state": "CA",
+      "phone": "(415) 319-6683",
+      "email": "kambiz@gamedaymenshealth.com",
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Gameday Men's Health Redwood City",
+      "city": "Redwood City",
+      "state": "CA",
+      "phone": "(650) 779-0036",
+      "email": null,
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Regenerate Men's Health Medical Clinic",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "phone": "(925) 238-9850",
+      "email": null,
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Advanced TRT Clinic",
+      "city": "Mountain View",
+      "state": "CA",
+      "phone": "(417) 441-2987",
+      "email": "info@advancedtrtclinic.com",
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Vital Testosterone Replacement Therapy Clinic",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "phone": "(408) 443-2335",
+      "email": "info@vitalvtrt.com",
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Peninsula Doctor Concierge Medicine",
+      "city": "Menlo Park",
+      "state": "CA",
+      "phone": "(650) 800-3365",
+      "email": "help@peninsuladoctor.com",
+      "stage": "ready_to_call"
+    },
+    {
+      "name": "Gameday Men's Health Walnut Creek",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "phone": "(925) 940-4831",
+      "email": "kambiz@gamedaymenshealth.com",
+      "stage": "ready_to_call"
+    }
+  ],
+  "investors": [
+    {
+      "firm": "Ro",
+      "contact": "Zachariah Reitano",
+      "email": "zachariah@ro.co",
+      "token": "38vfc97mn2",
+      "link": "https://investor.novalyteai.com/?r=38vfc97mn2",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "humbition",
+      "contact": "Cyrus Massoumi",
+      "email": "cyrus.massoumi@humbition.com",
+      "token": "fwn7xj5xmr",
+      "link": "https://investor.novalyteai.com/?r=fwn7xj5xmr",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Distributed Ventures",
+      "contact": "Distributed Ventures",
+      "email": "contact@distributedvc.com",
+      "token": "cquvp8wjgv",
+      "link": "https://investor.novalyteai.com/?r=cquvp8wjgv",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Wavemaker 360 Health",
+      "contact": "Wavemaker 360 Health",
+      "email": "funding@wavemaker360.com",
+      "token": "fgvxrukpjh",
+      "link": "https://investor.novalyteai.com/?r=fgvxrukpjh",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Rock Health Capital",
+      "contact": "Sean Day",
+      "email": "sean@rockhealth.com",
+      "token": "hxu6wu6xdi",
+      "link": "https://investor.novalyteai.com/?r=hxu6wu6xdi",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "7wireVentures",
+      "contact": "Glen Tullman",
+      "email": "glen@7wireventures.com",
+      "token": "grbt288ced",
+      "link": "https://investor.novalyteai.com/?r=grbt288ced",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "MAX Ventures",
+      "contact": "Matthew Weinberg",
+      "email": "matt@maxventures.vc",
+      "token": "grdrwmfu7a",
+      "link": "https://investor.novalyteai.com/?r=grdrwmfu7a",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Shrug Capital",
+      "contact": "Niv Dror",
+      "email": "niv@shrug.vc",
+      "token": "bma6xk7dip",
+      "link": "https://investor.novalyteai.com/?r=bma6xk7dip",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "AlleyCorp",
+      "contact": "AlleyCorp",
+      "email": "info@alleycorp.com",
+      "token": "cz397jubni",
+      "link": "https://investor.novalyteai.com/?r=cz397jubni",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Operator Partners",
+      "contact": "Nat Turner",
+      "email": "nat@operatorpartners.com",
+      "token": "rch9spu77m",
+      "link": "https://investor.novalyteai.com/?r=rch9spu77m",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "The Healthcare Syndicate",
+      "contact": "Wendell Su",
+      "email": "wendell@thehealthcaresyndicate.com",
+      "token": "wdpkuv528v",
+      "link": "https://investor.novalyteai.com/?r=wdpkuv528v",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Gaingels",
+      "contact": "Lorenzo Thione",
+      "email": "lorenzo@gaingels.com",
+      "token": "w7uybr27su",
+      "link": "https://investor.novalyteai.com/?r=w7uybr27su",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "DVC: Health",
+      "contact": "Sundeep Ahuja",
+      "email": "sundeep@joindvc.com",
+      "token": "pq5kdudpum",
+      "link": "https://investor.novalyteai.com/?r=pq5kdudpum",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Healthy Ventures",
+      "contact": "Enmi Kendall",
+      "email": "enmi@healthy.vc",
+      "token": "9xn7t7yns3",
+      "link": "https://investor.novalyteai.com/?r=9xn7t7yns3",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Black Opal Ventures",
+      "contact": "Tara Bishop, MD",
+      "email": "tbishop@blackopalventures.com",
+      "token": "c8fqtcv63e",
+      "link": "https://investor.novalyteai.com/?r=c8fqtcv63e",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Define Ventures",
+      "contact": "Lynne Chou O'Keefe",
+      "email": "lynne@definevc.com",
+      "token": "bg2ur6gpuk",
+      "link": "https://investor.novalyteai.com/?r=bg2ur6gpuk",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Bling Capital",
+      "contact": "Bling Capital",
+      "email": "decks@blingcap.com",
+      "token": "su6hpjizmv",
+      "link": "https://investor.novalyteai.com/?r=su6hpjizmv",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Fuel Ventures",
+      "contact": "Mark Pearson",
+      "email": "mark@fuel.ventures",
+      "token": "ypm67mudui",
+      "link": "https://investor.novalyteai.com/?r=ypm67mudui",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Numan",
+      "contact": "Sokratis Papafloratos",
+      "email": "sokratis@numan.com",
+      "token": "tb5vbgvmbf",
+      "link": "https://investor.novalyteai.com/?r=tb5vbgvmbf",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Out-Of-Pocket",
+      "contact": "Nikhil Krishnan",
+      "email": "nikhil@outofpocket.health",
+      "token": "6vm2fy2r9j",
+      "link": "https://investor.novalyteai.com/?r=6vm2fy2r9j",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Tribe Capital",
+      "contact": "Ted Maidenberg",
+      "email": "ted@tribecap.co",
+      "token": "7ixtvnjr9f",
+      "link": "https://investor.novalyteai.com/?r=7ixtvnjr9f",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Forerunner Ventures",
+      "contact": "Kirsten Green",
+      "email": "kgreen@forerunnerventures.com",
+      "token": "63ahw8p8bf",
+      "link": "https://investor.novalyteai.com/?r=63ahw8p8bf",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "FirstMark Capital",
+      "contact": "Rick Heitzmann",
+      "email": "rick@firstmark.com",
+      "token": "dgjhf44c29",
+      "link": "https://investor.novalyteai.com/?r=dgjhf44c29",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Momentous",
+      "contact": "Matt Wan",
+      "email": "mattwan@livemomentous.com",
+      "token": "tc8i8ajcmq",
+      "link": "https://investor.novalyteai.com/?r=tc8i8ajcmq",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Morning Brew",
+      "contact": "Austin Rief",
+      "email": "austin@morningbrew.com",
+      "token": "f7wucr8j68",
+      "link": "https://investor.novalyteai.com/?r=f7wucr8j68",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Hampton",
+      "contact": "Sam Parr",
+      "email": "sam@joinhampton.com",
+      "token": "fwkvh2ks3n",
+      "link": "https://investor.novalyteai.com/?r=fwkvh2ks3n",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Contrarian Thinking",
+      "contact": "Codie Sanchez",
+      "email": "codie@contrarianthinking.co",
+      "token": "wyih5svkf2",
+      "link": "https://investor.novalyteai.com/?r=wyih5svkf2",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Vibe Capital",
+      "contact": "Ankur Nagpal",
+      "email": "ankur@carrymoney.com",
+      "token": "vd7pi96d24",
+      "link": "https://investor.novalyteai.com/?r=vd7pi96d24",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "",
+      "contact": "Demetri Karagas",
+      "email": "dmkaragas@gmail.com",
+      "token": "xydjsx5csp",
+      "link": "https://investor.novalyteai.com/?r=xydjsx5csp",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "",
+      "contact": "Steven Gutentag",
+      "email": "steven.gutentag@gmail.com",
+      "token": "qan59tnrnw",
+      "link": "https://investor.novalyteai.com/?r=qan59tnrnw",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Premier Lacrosse League",
+      "contact": "Mike Rabil",
+      "email": "mr@premierlacrosseleague.com",
+      "token": "unazzikrgv",
+      "link": "https://investor.novalyteai.com/?r=unazzikrgv",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Premier Lacrosse League",
+      "contact": "Paul Rabil",
+      "email": "paul@premierlacrosseleague.com",
+      "token": "29p6hv82yy",
+      "link": "https://investor.novalyteai.com/?r=29p6hv82yy",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Knockout Capital",
+      "contact": "Knockout Capital",
+      "email": "ko@knockout.capital",
+      "token": "ivitx6hefp",
+      "link": "https://investor.novalyteai.com/?r=ivitx6hefp",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "DxAngels",
+      "contact": "DxAngels",
+      "email": "deals@dxangels.com",
+      "token": "vfrky4s9qi",
+      "link": "https://investor.novalyteai.com/?r=vfrky4s9qi",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "SteelSky Ventures",
+      "contact": "Maria Toler",
+      "email": "maria@steelskyventures.com",
+      "token": "gxh8b79xtv",
+      "link": "https://investor.novalyteai.com/?r=gxh8b79xtv",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Atomic",
+      "contact": "Jack Abraham",
+      "email": "jack@atomic.vc",
+      "token": "62q9bw88sg",
+      "link": "https://investor.novalyteai.com/?r=62q9bw88sg",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Earl Grey Capital",
+      "contact": "Earl Grey Capital",
+      "email": "team@earlgrey.capital",
+      "token": "dwhvajef5c",
+      "link": "https://investor.novalyteai.com/?r=dwhvajef5c",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Longevity Angels",
+      "contact": "Longevity Angels",
+      "email": "cooper@thelongevityangels.com",
+      "token": "v5m547pf4n",
+      "link": "https://investor.novalyteai.com/?r=v5m547pf4n",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Muse Capital",
+      "contact": "Lance",
+      "email": "lance@muse.capital",
+      "token": "3qp2hawta8",
+      "link": "https://investor.novalyteai.com/?r=3qp2hawta8",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Ada Ventures",
+      "contact": "Ada Ventures",
+      "email": "operations@adaventures.com",
+      "token": "z5eaj37z5q",
+      "link": "https://investor.novalyteai.com/?r=z5eaj37z5q",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Looking Glass Capital",
+      "contact": "Adam Besvinick",
+      "email": "adam@lookingglass.vc",
+      "token": "xkfxn3kp3u",
+      "link": "https://investor.novalyteai.com/?r=xkfxn3kp3u",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Virtue",
+      "contact": "Sean",
+      "email": "sd@virtuevc.com",
+      "token": "cnkssdgm5v",
+      "link": "https://investor.novalyteai.com/?r=cnkssdgm5v",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Scrub Capital",
+      "contact": "Rebecca and Christina",
+      "email": "info@scrubcapital.com",
+      "token": "24b3ztuvsz",
+      "link": "https://investor.novalyteai.com/?r=24b3ztuvsz",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Jumpstart Foundry",
+      "contact": "Jumpstart Foundry",
+      "email": "contact@jsf.co",
+      "token": "cd93sxi7n7",
+      "link": "https://investor.novalyteai.com/?r=cd93sxi7n7",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Headwater",
+      "contact": "Matt",
+      "email": "matt@headwater.vc",
+      "token": "y3cyrjqdne",
+      "link": "https://investor.novalyteai.com/?r=y3cyrjqdne",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "FJ Labs",
+      "contact": "Fabrice Grinda",
+      "email": "fabrice@fjlabs.com",
+      "token": "vythxjh9i8",
+      "link": "https://investor.novalyteai.com/?r=vythxjh9i8",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Summer Health",
+      "contact": "Ellen DaSilva",
+      "email": "ellen@summerhealth.com",
+      "token": "rvdeafsjn5",
+      "link": "https://investor.novalyteai.com/?r=rvdeafsjn5",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Electric Ant",
+      "contact": "Chris Ovitz / Ryan Junee",
+      "email": "pitch@electricant.xyz",
+      "token": "pqbuszw44d",
+      "link": "https://investor.novalyteai.com/?r=pqbuszw44d",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Bread & Butter Ventures",
+      "contact": "Bread & Butter Ventures",
+      "email": "hello@breadandbutterventures.com",
+      "token": "952aansgfg",
+      "link": "https://investor.novalyteai.com/?r=952aansgfg",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "HealthX Ventures",
+      "contact": "HealthX Ventures",
+      "email": "contact@healthxventures.com",
+      "token": "jwcit3b5gj",
+      "link": "https://investor.novalyteai.com/?r=jwcit3b5gj",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Joyance Partners",
+      "contact": "Nicole",
+      "email": "nicole@joyancepartners.com",
+      "token": "a9txnbax5q",
+      "link": "https://investor.novalyteai.com/?r=a9txnbax5q",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Next Ventures",
+      "contact": "Jordan Pascasio / Mel Strong",
+      "email": "hello@nextventures.com",
+      "token": "buavheckw8",
+      "link": "https://investor.novalyteai.com/?r=buavheckw8",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "SpringRock Ventures",
+      "contact": "Eric Bell",
+      "email": "ebell@springrockventures.com",
+      "token": "byfn467cab",
+      "link": "https://investor.novalyteai.com/?r=byfn467cab",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "1984 Ventures",
+      "contact": "1984 Ventures",
+      "email": "team@1984.vc",
+      "token": "qx9q9bypiq",
+      "link": "https://investor.novalyteai.com/?r=qx9q9bypiq",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "SpringTide Ventures",
+      "contact": "Austin Walters",
+      "email": "austin@springtide.com",
+      "token": "gctxq7tqe8",
+      "link": "https://investor.novalyteai.com/?r=gctxq7tqe8",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Builders VC",
+      "contact": "Builders VC",
+      "email": "investments@builders.vc",
+      "token": "6ux67qc4v5",
+      "link": "https://investor.novalyteai.com/?r=6ux67qc4v5",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Sand Hill Angels",
+      "contact": "Sand Hill Angels",
+      "email": "info@sandhillangels.com",
+      "token": "ex5i7j2uwi",
+      "link": "https://investor.novalyteai.com/?r=ex5i7j2uwi",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Lerer Hippeau",
+      "contact": "Lerer Hippeau",
+      "email": "contact@lererhippeau.com",
+      "token": "izuixha6yy",
+      "link": "https://investor.novalyteai.com/?r=izuixha6yy",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Digital Health Venture Partners",
+      "contact": "Arvin Grover",
+      "email": "arvin@dhvp.io",
+      "token": "s47rs8dyvf",
+      "link": "https://investor.novalyteai.com/?r=s47rs8dyvf",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "Vine Ventures",
+      "contact": "Daniel Tarockoff",
+      "email": "dt@vine.vc",
+      "token": "hxkbvj924d",
+      "link": "https://investor.novalyteai.com/?r=hxkbvj924d",
+      "stage": "Tracked"
+    },
+    {
+      "firm": "SignalFire",
+      "contact": "Sooah Cho",
+      "email": "sooah@signalfire.com",
+      "token": "tvpwe5k5wj",
+      "link": "https://investor.novalyteai.com/?r=tvpwe5k5wj",
+      "stage": "Tracked"
+    }
+  ],
+  "batch4Drafts": [
+    {
+      "file": "01-electric-ant.eml",
+      "to": "pitch@electricant.xyz",
+      "subject": "After Maximus: the clinic side of men's health",
+      "token": "pqbuszw44d"
+    },
+    {
+      "file": "02-bread-and-butter-ventures.eml",
+      "to": "hello@breadandbutterventures.com",
+      "subject": "Pre-seed: care access software for men's health clinics",
+      "token": "952aansgfg"
+    },
+    {
+      "file": "03-healthx-ventures.eml",
+      "to": "contact@healthxventures.com",
+      "subject": "Making men's health clinics easier to find",
+      "token": "jwcit3b5gj"
+    },
+    {
+      "file": "04-joyance-partners.eml",
+      "to": "nicole@joyancepartners.com",
+      "subject": "Pre-seed: patient demand for specialty men's clinics",
+      "token": "a9txnbax5q"
+    },
+    {
+      "file": "05-next-ventures.eml",
+      "to": "hello@nextventures.com",
+      "subject": "From Oura and Momentous to the clinic visit",
+      "token": "buavheckw8"
+    },
+    {
+      "file": "06-springrock-ventures.eml",
+      "to": "ebell@springrockventures.com",
+      "subject": "Consumer-first discovery for men's health clinics",
+      "token": "byfn467cab"
+    },
+    {
+      "file": "07-1984-ventures.eml",
+      "to": "team@1984.vc",
+      "subject": "AI-guided patient matching for men's health clinics",
+      "token": "qx9q9bypiq"
+    },
+    {
+      "file": "08-springtide-ventures.eml",
+      "to": "austin@springtide.com",
+      "subject": "Beyond OpenLoop: patient demand for men's clinics",
+      "token": "gctxq7tqe8"
+    },
+    {
+      "file": "09-builders-vc.eml",
+      "to": "investments@builders.vc",
+      "subject": "Modernizing how men find health clinics",
+      "token": "6ux67qc4v5"
+    },
+    {
+      "file": "10-sand-hill-angels.eml",
+      "to": "info@sandhillangels.com",
+      "subject": "Pre-seed healthcare company for member review",
+      "token": "ex5i7j2uwi"
+    },
+    {
+      "file": "11-lerer-hippeau.eml",
+      "to": "contact@lererhippeau.com",
+      "subject": "A consumer marketplace for men's health clinics",
+      "token": "izuixha6yy"
+    },
+    {
+      "file": "12-digital-health-venture-partners.eml",
+      "to": "arvin@dhvp.io",
+      "subject": "AI-enabled patient access for men's health clinics",
+      "token": "s47rs8dyvf"
+    },
+    {
+      "file": "13-vine-ventures.eml",
+      "to": "dt@vine.vc",
+      "subject": "Pre-seed: helping men find longevity clinics",
+      "token": "hxkbvj924d"
+    },
+    {
+      "file": "14-signalfire.eml",
+      "to": "sooah@signalfire.com",
+      "subject": "Early-stage AI for men's health clinic access",
+      "token": "tvpwe5k5wj"
+    }
+  ],
+  "batch4ScheduledSend": {
+    "when": "2026-10-26T05:00:00-07:00",
+    "routineFolder": "batch4-investor-send",
+    "count": 14,
+    "attachment": "Novalyte-AI-Pre-Seed-Deck.pdf",
+    "status": "scheduled"
+  },
+  "investorPasses": [
+    {
+      "firm": "Looking Glass",
+      "contact": "Adam",
+      "reason": "Too close to Hone"
+    },
+    {
+      "firm": "Headwater",
+      "contact": "Matt",
+      "reason": "Between funds"
+    }
+  ],
+  "overnight": [
+    {
+      "time": "2026-10-25T06:20:00-07:00",
+      "summary": "Batch4: 14 investor drafts with deck PDF in INBOX.Drafts; tokens in investor_refs",
+      "severity": "info"
+    },
+    {
+      "time": "2026-10-25T06:27:00-07:00",
+      "summary": "Scheduled batch4 send Mon Oct 26 5:00 AM PT",
+      "severity": "action"
+    },
+    {
+      "time": "2026-10-25T08:20:00-07:00",
+      "summary": "Bridge plan refreshed: UPS Nov 3, EBT Nov 8, shelter/food priority",
+      "severity": "info"
+    }
+  ],
+  "guardrails": [
+    "Never claim HIPAA Secure Session",
+    "Never mention Athena or DrChrono",
+    "Raise language: pre-seed $150K (pre-revenue)",
+    "Option 1 free claim/verify; Option 2 ~$750 setup"
+  ],
+  "backendNotes": {
+    "supabaseProjectId": "dpamtdstacxfeqtlbivu",
+    "tables": [
+      "prospect_clinics",
+      "clinic_claims",
+      "investor_refs"
+    ],
+    "imapMailbox": "admin@novalyteai.com",
+    "fromAddress": "jamil@novalyteai.com"
+  }
+}
